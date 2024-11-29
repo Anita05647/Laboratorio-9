@@ -23,13 +23,13 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #f4f4f4;
+    background-color: #af6aa0;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .container h2 {
-    color: #333;
+    color: #395f70;
 }
 
 .container p {
