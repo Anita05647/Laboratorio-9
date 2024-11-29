@@ -1,6 +1,4 @@
- body{
-    font-family: "Jaro", sans-serif;
- }
+
  
  /* Estilos para el encabezado */
  header {
@@ -34,6 +32,7 @@ nav a:hover {
 
 .container h2 {
     color: #ffffff;
+    font-family: "Jaro", sans-serif;
 }
 
 .container p {
